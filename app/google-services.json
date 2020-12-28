@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480764431174",
+    "project_id": "accesso-38f72",
+    "storage_bucket": "accesso-38f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480764431174:android:af20be211fbf6b6a103347",
+        "android_client_info": {
+          "package_name": "vijay.signInFlow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480764431174-mcu0tdn5gh20qml5kllqpi3224ck4r6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5d1TSymi84JFPjxjeoGm1zbkjSWAcDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480764431174-mcu0tdn5gh20qml5kllqpi3224ck4r6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
